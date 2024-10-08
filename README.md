@@ -11,19 +11,19 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
-- Amazon EC2
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- Amazon EC2 - Elastic Compute Cloud
+- [Foco da ferramenta] Fornece servidores virtuais flexiveis e escaláveis.
+- [Descrição de caso de uso] Todas as aplicações da empresa serão migradas para instâncias EC2.
 
 Etapa 2: 
-- Amazon S3
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- Amazon S3 - Simple Storage Service
+- [Foco da ferramenta] Serviço de armazenamento de objetos, pode-se guardar e recupear qualquer tipo de dados.
+- [Descrição de caso de uso] Os arquivos estáticos das aplicações serão armazenadas nos buckets da S3, tendo assim mais segurança e confiabilidade. 
 
 Etapa 3: 
-- Amazon RDS
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- Amazon RDS - Relational Dadabate Service
+- [Foco da ferramenta] Serviço de gerenciamento de banco de dados relacionais.
+- [Descrição de caso de uso] Os bancos de dados das aplicações serão migrados para o RDS.
 
 
 
@@ -32,8 +32,12 @@ A implementação de ferramentas na empresa *Abstergo Industries tem como espera
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+https://aws.amazon.com/pt/ec2/
+
+https://aws.amazon.com/pt/s3/
+
+https://aws.amazon.com/pt/rds/
 
 Assinatura do Responsável pelo Projeto:
 
-[Nome do Responsável pelo Projeto]
+**Filipe Sousa dos Santos**
